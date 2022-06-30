@@ -2,7 +2,9 @@ package in.ashokit.bindings;
 
 public class Test {
  
+  public static int m1(){
   
+  }
   
   public static void main(String[] args) {
 	  
