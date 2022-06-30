@@ -1,11 +1,17 @@
 package in.ashokit.bindings;
 
 public class Test {
-  String s1="hello bhaiya should be removed";
+ 
   
   
-  public static void m1(){
-    System.out.println("high");
-  }
-  
+  public static void main(String[] args) {
+	  
+	  String s1="hello bhaiya should be removed";
+	  
+	  
+	  String s2="sjdhs";
+	  
+	System.out.println(s1+s2);
+}
+ 
 }
