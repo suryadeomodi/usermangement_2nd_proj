@@ -6,7 +6,7 @@ public class Test {
 	  }
 	
   
-  public static int m2(){
+  public static int m3(){
 	  return 0;
 	  }
   public static void main(String[] args) {
