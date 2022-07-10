@@ -1,7 +1,7 @@
 package in.ashokit.bindings;
 
 public class Test {
-	public static int m1() {
+	public static int m2() {
 		return 0;
 	}
 
