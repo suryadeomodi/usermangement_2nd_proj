@@ -5,7 +5,7 @@ public class Test {
 		return 0;
 	}
 
-	public static int m4() {
+	public static int m3() {
 		return 0;
 	}
 
@@ -18,4 +18,5 @@ public class Test {
 		System.out.println(s1 + s2);
 	}
 
+ 
 }
